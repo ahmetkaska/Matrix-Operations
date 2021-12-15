@@ -8,9 +8,12 @@
 //#ifndef matrisoperations_h
 //#define matrisoperations_h
 
-#include <stdio.h>
-
+#ifndef MATRISOPERATIONS_H_
+#define MATRISOPERATIONS_H_
 //#endif /* matrisoperations_h */
 
 
 int ** operasyon1(int ** matris1 , int ** matris2,int islemTipi);
+
+
+#endif
