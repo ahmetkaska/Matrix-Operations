@@ -13,7 +13,7 @@
 //#endif /* matrisoperations_h */
 
 
-int ** operasyon1(int ** matris1 , int ** matris2,int islemTipi);
+int ** operasyon1(int ** matris1 , int ** matris2,int islemTipi,int satirSayisi1,int satirSayisi2);
 
 
 #endif
